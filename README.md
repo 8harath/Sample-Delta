@@ -2,6 +2,12 @@
 
 Sample Delta is a proposed employee and work-tracking platform for teams involved in auditing. It aims to give audit managers and team members a clear view of assignments, progress, deadlines, and outstanding review items.
 
+## Partner Engagement Tracker prototype
+
+A browser-only portfolio tracker prototype is available in [engagement-tracker](./engagement-tracker/). Open `index.html` directly in a browser. It includes a dashboard, partner directory, engagement search and details, JSON import/export, and optional direct local JSON-file saving in compatible browsers. The included records are fictional demo data.
+
+See the [prototype README](./engagement-tracker/README.md) for local storage behavior, architecture, email alert limitations, and suggested next steps.
+
 ## Purpose
 
 Audit engagements often involve multiple employees, overlapping tasks, review cycles, and time-sensitive deliverables. Sample Delta is intended to bring this information into one organized workspace, improving coordination and accountability.
@@ -28,7 +34,7 @@ Audit engagements often involve multiple employees, overlapping tasks, review cy
 
 ## Project Status
 
-**Planning stage.** This README outlines the proposed scope. The features listed above are not yet implemented.
+**Prototype available.** The partner engagement portfolio is a static local MVP under `/engagement-tracker`. The broader employee and audit workflow described above remains planned and is not implemented by this prototype.
 
 ## Data Privacy
 
